@@ -1,0 +1,13 @@
+1. Travailler sur les transmissions numériques à l'aide de Modem, DSLAM, python et des bobines de cables réels.
+2. Comparer le niveau de bruit en automatisant les tâches d'administration avec Paramiko pour détecter des 
+lignes particulièrement bruyante.
+3. Regrouper sur le même graphique pour 1 ligne, plus informations parmi : QLN, SNR, HLOG et bitAlloc
+(nombre de bits/symbole pour chaque sous-bande)
+4. Créer un tableau de synthèse indiquant pour une ligne, le SNR min, max et moyen pour les différentes
+valeurs du nombre de bits/symbole (0 à 15)
+
+1.Travailler sur les transmissions numériques à l'aide de Modem, DSLAM, python et des bobines de cables réels.
+2. Comparer le niveau de bruit en automatisant les tâches d'administration avec Paramiko pour détecter des lignes particulièrement bruyante.
+3. Regrouper sur le même graphique pour 1 ligne, plus informations parmi : QLN, SNR, HLOG et bitAlloc
+(nombre de bits/symbole pour chaque sous-bande)
+4. Créer un tableau de synthèse indiquant pour une ligne, le SNR min, max et moyen pour les différentesvaleurs du nombre de bits/symbole (0 à 15)
